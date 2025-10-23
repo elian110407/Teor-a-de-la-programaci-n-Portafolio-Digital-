@@ -3,9 +3,9 @@
 
 ---
 
-### ⚛️ Unidad 1: Fundamentos
+### ⚛️ Unidad 1
 > *Explorando los átomos del código y los conceptos iniciales.*
-[unidad1.md](ruta/al/archivo.md)
+[Ir a Unidad 1](unidad1.md)
 ---
 
 ### 🧭 Unidad 2: Desarrollo y Estructuras
