@@ -4,7 +4,7 @@
 
 ### ⚛️ Unidad 1: Algoritmos y lenguajes de programación.
 > 
-[Ir a Unidad 1](Unidad 1.md)
+[Ir a Unidad 1](Unidad1.md)
 ---
 
 ### 🧭 Unidad 2
