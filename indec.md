@@ -5,7 +5,9 @@
 ### ⚛️ Unidad 1: Algoritmos y lenguajes de programación.
 > 
 [Ir a Unidad 1](Unidad1.md)
-[Ir a tareas entregables Unidad 1](
+
+[Ir a tareas entregables Unidad 1](Tareasentregables.md)
+
 ---
 
 ### 🧭 Unidad 2
