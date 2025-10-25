@@ -53,5 +53,5 @@ Para esta parte elegi un algoritmo que me permita Calcular cuanto sera el precio
 
 En la Unidad aprendi muchas cosas sobre como crear un codigo en lenguaje de programacion y cual es su estructura, tambien aprendi que para empezar en el mundo de la programacion tenemos una herramiento la cual nos facilita la entrada a este mundo y esa herramienta son los pseudocodigos porque es facil de utilizar ya que utlizamos el idioma español para poder realizar los codigos, cuando ya sepamos las bases de las estructuras de los lenguajes de programacion podemos pasar a alguno otro más avanzado pero lo mas importante es no tener como prioridad un solo lenguaje porque en la vida laboral necesitaremos dominar algunos lenguajes de programación.
 <p align="right">
-  <a href="https://github.com/tu-usuario/tu-repositorio">Volver a la página principal</a>
+  <a href="https://github.com/elian110407/Teor-a-de-la-programaci-n-Portafolio-Digital">Volver a la página principal</a>
 </p>
