@@ -3,17 +3,17 @@
 
 ---
 
-### ⚛️ Unidad 1
-> *Explorando los átomos del código y los conceptos iniciales.*
+### ⚛️ Unidad 1: Algoritmos y lenguajes de programación.
+> **
 [Ir a Unidad 1](unidad1.md)
 ---
 
-### 🧭 Unidad 2: Desarrollo y Estructuras
+### 🧭 Unidad 2
 > *Navegando las estructuras y descubriendo nuevos paradigmas.*
 
 ---
 
-### 🛠️ Unidad 3: Aplicación Práctica
+### 🛠️ Unidad 3
 > *Herramientas en acción: Integración de conocimiento para construir soluciones.*
 
 ---
@@ -30,6 +30,3 @@
 
 ### 🧠 Uso de la IA Generativa
 > *El cerebro digital: Detalle de las herramientas y técnicas de Inteligencia Artificial empleadas.*
-
----
-**🚀 ¡Lleva tu portafolio al siguiente nivel! 🚀**
