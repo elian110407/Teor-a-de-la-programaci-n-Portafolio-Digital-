@@ -20,7 +20,7 @@ Esta tarea consistia en la instalacion de un lenguaje de programacion e ir adjun
 
 ---
 
-### ⌨️🖊️🧾 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.
+### 🖊️🧾 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.
 
 Esta tarea en clase trata de que debemos realizar nuestro primer algoritmo con ciertas condiciones para calcular el Indice de Masa Corporal de una persona.
 
