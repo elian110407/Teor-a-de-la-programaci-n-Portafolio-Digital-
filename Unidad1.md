@@ -26,7 +26,7 @@
  ---
 ### 🚶‍➡️🏆Programación por bloques
 
-La programación por bloques es un paradigma de programación visual en el que las instrucciones de código y los elementos de control de flujo como bucles y condicionales, se representan como segmentos gráficos que se arrastran y se encajan de forma lógica para construir un programa.
+La Programación por Bloques es un método de programación visual que permite a los usuarios crear programas al arrastrar, soltar y encajar bloques gráficos que representan comandos o estructuras de programación.Está diseñado para ser intuitivo y accesible, especialmente para principiantes y niños, ya que elimina la necesidad de escribir código textual y evita los errores de sintaxis que son comunes en la programación tradicional. [4]
 
 [Programacion por bloques](https://drive.google.com/drive/folders/1rcLTr_U5APGuKYuTVHhS80ebZMnoqp1s?usp=sharing)
 
@@ -34,15 +34,15 @@ La programación por bloques es un paradigma de programación visual en el que l
 
 ###  🖥️ ⚙️ Ejemplos de algoritmos con estructuras lineales/secuenciales
 
-Para esta parte elegi un algoritmo que me permita Calcular cuanto sera el precio final de un producto con descuento en Pseint y luego lo realizare en lenguaje de programacion C.
+Para esta parte elegi un algoritmo que me permita Calcular cuanto sera el precio final de un producto con descuento, y otro codigo que me permita ver el promedio de nota para el colegio en Pseint y luego lo realizare en lenguaje de programacion C.
 
-* Actividad en Pseudocodigo
+* 🔍 Actividad en Pseudocodigo
 
-  [Actividad en Pseint](https://drive.google.com/file/d/1jEm0ejeGsDwEYKXZNvl4KMswRfqkU4gZ/view?usp=sharing)
+  [Actividad en Pseint](https://drive.google.com/drive/folders/1DXtwTWvP1VkwAvvO5pHSFQbg4BkoncNE?usp=sharing)
 
-* Actividad en C
+* 💽 Actividad en C
 
-  [Actividad en C](https://drive.google.com/drive/u/0/folders/1DXtwTWvP1VkwAvvO5pHSFQbg4BkoncNE)
+  [Actividad en C](https://drive.google.com/drive/folders/1DXtwTWvP1VkwAvvO5pHSFQbg4BkoncNE?usp=sharing)
 ---
 ### ❓🤷‍♂️ Principales dificultades en la aplicación de los contenidos
 
@@ -52,6 +52,7 @@ Para esta parte elegi un algoritmo que me permita Calcular cuanto sera el precio
 ### 🕵️ 🎓 Reflexión crítica de los aprendizajes de la unidad.
 
 En la Unidad aprendi muchas cosas sobre como crear un codigo en lenguaje de programacion y cual es su estructura, tambien aprendi que para empezar en el mundo de la programacion tenemos una herramiento la cual nos facilita la entrada a este mundo y esa herramienta son los pseudocodigos porque es facil de utilizar ya que utlizamos el idioma español para poder realizar los codigos, cuando ya sepamos las bases de las estructuras de los lenguajes de programacion podemos pasar a alguno otro más avanzado pero lo mas importante es no tener como prioridad un solo lenguaje porque en la vida laboral necesitaremos dominar algunos lenguajes de programación.
+
 <p align="right">
   <a href="indec.md">Volver a la página principal</a>
 </p>
