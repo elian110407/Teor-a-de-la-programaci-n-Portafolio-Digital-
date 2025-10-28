@@ -28,7 +28,7 @@ Esta tarea en clase trata de que debemos realizar nuestro primer algoritmo con c
 
 ---
 
-### 🏷️🗃️ Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+### 🔧 🗃️ Del diseño del algoritmo con estructuras secuenciales
 
 En esta taller diseñamos un algortimo con estrucutura secuencial, donde debemos calcular el valor minimo de C3 para que de el promedio deseado
 
