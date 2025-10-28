@@ -1,6 +1,6 @@
 ## 📁➡︎TAREAS ENTREGADAS EN LA UNIDAD 1
 
-En esta seccion estan todas las tareas que fueron entregadas mediante el EVA, estan en formato de WORD y PDF.
+Aqui estan todas las tareas que fueron entregadas mediante el EVA, estan en formato de WORD y PDF.
 
 ---
 
