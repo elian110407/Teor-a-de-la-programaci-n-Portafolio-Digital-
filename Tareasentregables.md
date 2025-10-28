@@ -14,7 +14,7 @@ Esta tarea consistia en consultar herramientas digitales para escribir pseudocó
 
 ### 🛠️⚙️Instalación de lenguajes de programación.
 
-Esta tarea consistia en que debiamos descargar algun lenguaje de programación y adjuntar evidencia del paso a paso del proceso de instalación.
+Esta tarea consistia en la instalacion de un lenguaje de programacion e ir adjuntando evidencia del paso a paso de su intalacion.
 
 📄 [Instalacion de Lenguajes de Programacion](https://drive.google.com/file/d/1vkoSwpQhwfAQ1BL4DET6j3wzAryjnwnZ/view?usp=sharing)
 
@@ -25,6 +25,18 @@ Esta tarea consistia en que debiamos descargar algun lenguaje de programación y
 Esta tarea en clase trata de que debemos realizar nuestro primer algoritmo con ciertas condiciones para calcular el Indice de Masa Corporal de una persona.
 
 📄 [Construcción del algoritmo](https://drive.google.com/file/d/1UgD5OPGkzfKdw-fPRkoGzuIxQxsRKjFm/view?usp=sharing)
+
+---
+
+### 🏷️🗃️ Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+
+En esta taller diseñamos un algortimo con estrucutura secuencial, donde debemos calcular el valor minimo de C3 para que de el promedio deseado
+
+📄 [Diseño de algoritmo con estructura secuencial](https://drive.google.com/file/d/1O_2Fj3cPKEU5BV-YwMxOA2ivuA9s5NWP/view?usp=sharing)
+
+💿 [Codigo en PSeInt](https://drive.google.com/file/d/1QCyLEm3jzQIsPB98yKd0__8QzHTLg7XC/view?usp=sharing)
+
+📖 [Codigo en C](https://drive.google.com/file/d/13l3zms6UnJRRCuap1ZqPDtCgLPGqWX6Y/view?usp=sharing)
 
 <p align="right">
   <a href="index.md">Volver a la página principal</a>
