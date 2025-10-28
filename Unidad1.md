@@ -4,10 +4,14 @@
 * 💿 Algoritmos
 
   Un algoritmo es una serie de secuencias organizadas de manera lógica y limitada que resuelven un problema específico,los algoritmos se clasifican en dos:
-  * Cualitativos:
+  * Algoritmos Cualitativos:
+  
     Implique la descripción a través de frases y palabras.[1]
-  * Cuantitativas:
+    
+  * Algoritmos Cuantitativos:
+  
     Se refiere al uso de cálculos o fórmulas matemáticas.[1]
+    
 * 💾 Pseudocodigos
 
   El pseudocódigo es una forma de describir un algoritmo o programa de computadora utilizando una mezcla de lenguaje natural como el español, su objetivo es  permitir a los programadores centrarse en la lógica del algoritmo sin preocuparse por las reglas de un lenguaje de programación específico, sirviendo como un borrador o esquema legible antes de la codificación final.[2]
@@ -48,6 +52,7 @@ Para esta parte elegi un algoritmo que me permita Calcular cuanto sera el precio
 
 * Los Princiaples problemas que tuve al realizar codigos en lenguaje de programacion esque muchas veces no copilaba en codigo por algun error en la escritura del codigo.
 * Tambien el aprenderme el lenguaje de C ya que en pseint utilizabamos palabras en español y en C se utiliza diferente lenguaje para para escribir cada instruccion del codigo.
+* Olvido del Punto y Coma, es el cierre de instrucción más común en C y su ausencia genera errores de sintaxis. Otra dificultad fue aprenderme que librerias nomas se deben utilizar para los distintos codigos.
 ---
 ### 🕵️ 🎓 Reflexión crítica de los aprendizajes de la unidad.
 
