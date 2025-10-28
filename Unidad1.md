@@ -38,7 +38,7 @@ Para esta parte elegi un algoritmo que me permita Calcular cuanto sera el precio
 
 * Actividad en Pseudocodigo
 
-  [Actividad en Pseint](https://drive.google.com/drive/u/0/folders/1DXtwTWvP1VkwAvvO5pHSFQbg4BkoncNE)
+  [Actividad en Pseint](https://drive.google.com/file/d/1jEm0ejeGsDwEYKXZNvl4KMswRfqkU4gZ/view?usp=sharing)
 
 * Actividad en C
 
