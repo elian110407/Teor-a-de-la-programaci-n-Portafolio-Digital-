@@ -33,6 +33,7 @@
 
 [3]E. O. Mendoza, "Diagrama de Flujo," Universidad Veracruzana, México, 2020. [En línea]. Disponible en :https://www.uv.mx/personal/aherrera/files/2020/05/DIAGRAMAS-DE-FLUJO.pdf
 
+[4]Junta de Castilla y León, "5. Programación por bloques y pensamiento computacional," Educacyl, [En línea]. Disponible: https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html. [Accedido: 28 Oct. 2025]
 ---
 
 ### 🧠 Uso de la IA Generativa
