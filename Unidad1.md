@@ -18,7 +18,45 @@
   
   * 👨‍💻 Ejemplos:
 
-  [Ejercicios Pseudocodigos](https://drive.google.com/drive/u/0/folders/1esiakpkv7s2UsliXAc5qf3PKeMyotLSM)
+ En este ejercicio utilizaremos el pseudocodigo para crear un codigo que nos permita calcular cuanto deberia de cobrar un pintor por el metro cuadrado de pintura.
+
+* Ejemplo 1: Cobrar pintura por metro cuadrado.
+ ```
+Algoritmo Cobrar_pintura
+	Definir metroscuadro, precio, presupuesto Como Real
+	// Datos de entrada//
+	Escribir 'Ingrese la cantidad del metro cuadrado:'
+	Leer metroscuadro
+	Escribir 'ingrese el precio por el metro cuadrado:'
+	Leer precio
+	// Proceso//
+	presupuesto <- (metroscuadro*precio)
+	// Datos de salida//
+	Escribir 'El presupuesto por los metros cuadrados de pintura es de:', presupuesto
+FinAlgoritmo
+```
+---
+
+### *Explicación del código:*
+
+* Lo primero que tenemos que hacer es identificar las variables, en este caso las definiremos como reales.
+* Utilizamos los "//" para poder comentarios dentro del codigo pero estos comentarios no afectan en nada en la ejecucion.
+* Despues de esto utilizamos la funcion "Escribir" para que el usuario vea que datos debe de ingresar en ese apartado.
+* Como siguiente paso utilizaremos la funcion "Leer" y luego la variable a la cual será asignada el dato que el usuario ingresara.
+* Despues de definir las variables continuamos con el cálculo, escribimos la variable, despues de eso un "=" lo que significa que lo escrito despues del igual sera el valor que sera entregada a la variable.
+* Despues de escribir la formula, volveremos a usar la funcion "Escribir" para poder mostrar al usuario el resultado final separando con una coma y luego la variable, la cual se le mostrara al usuario el resultado de la operacion.
+  
+---
+
+### *Pruebas de Escritorio*
+
+| N° | Metro cuadrado | Precio por metro cuadrado | Operación | Resultado |
+| :--- | :---: | :---: | :---: | ---: |
+| 1    | 8  | $15  | presupuesto= 8 * 15 | $120 |
+| 2    | 20  | $30  |  presupuesto= 20 * 30 | $600 |
+| 3    | 4   | $20   |  presupuesto= 4 * 20 | $80 |
+
+---
 
 * 📊 Diagramas de flujo
 
@@ -26,8 +64,12 @@
 
   * 📁Ejemplos:
  
-  [Ejercicos de Diagramas de flujo](https://drive.google.com/drive/u/0/folders/1mDqA72OWDsJitaKSbIGiayTsIuLXtUMa)
+<p align="left">
+  <img src="https://drive.google.com/uc?id=1V4ixNMvJv-75mjMnlcUqy0I2ufe_qzNG" alt="Descripción" width="35%">
+</p>
+
  ---
+ 
 ### 🚶‍➡️🏆Programación por bloques
 
 La Programación por Bloques es un método de programación visual que permite a los usuarios crear programas al arrastrar, soltar y encajar bloques gráficos que representan comandos o estructuras de programación.Está diseñado para ser intuitivo y accesible, especialmente para principiantes y niños, ya que elimina la necesidad de escribir código textual y evita los errores de sintaxis que son comunes en la programación tradicional. [4]
