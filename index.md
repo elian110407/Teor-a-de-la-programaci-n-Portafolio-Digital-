@@ -1,5 +1,18 @@
 # ⚙️ Teoría de la Programación
 ## 🗃️ Portafolio Digital de Aprendizaje
+
+---
+
+# UNIVERSIDAD NACIONAL DE LOJA
+
+### 🖥️ CARRERA: Computación
+
+### 👩‍🏫 DOCENTE: Ing. Lissete Lopez
+
+### 🧑‍🎓 ESTUDIANTE: Elian Vicente Jimenez Motoche
+
+### ⌛ CICLO: 1
+
 ---
 
 ### ⚛️ Unidad 1: Algoritmos y lenguajes de programación.
