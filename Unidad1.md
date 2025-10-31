@@ -50,6 +50,8 @@ FinAlgoritmo
 
 ### *Pruebas de Escritorio*
 
+<p style="text-align:center; font-size:12px;">Tabla 1. Prueba de escritorio
+
 | N° | Metro cuadrado | Precio por metro cuadrado | Operación | Resultado |
 | :--- | :---: | :---: | :---: | ---: |
 | 1    | 8  | $15  | presupuesto= 8 * 15 | $120 |
@@ -64,9 +66,23 @@ FinAlgoritmo
 
   * 📁Ejemplos:
  
-<p align="left">
-  <img src="https://drive.google.com/uc?id=1V4ixNMvJv-75mjMnlcUqy0I2ufe_qzNG" alt="Descripción" width="35%">
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFnZ4ClrAACm1Kke4AslbbEi2w-iYNcDJgIEHfcMXGaoFsq7Frj5KMgjpl1sDeb1DBM9aCdHxicgoZWfrf1tFGdHZ9mo3wnNo7wi4c8C5RHTbIrH2pBm2h4s2kan93fESgl7mT5ZVs-rPAnp4AAdXirUFe7rqYi2RDSqD1Vw2v6P-hykyDwW5MZ50AdEkg/w645-h405/Captura%20de%20pantalla%202025-10-25%20133423.png" alt="Descripción" width="75%">
 </p>
+
+ ---
+
+ ###  *Explicación del diagrama de Flujo* 
+
+* Muestra la estructura del algoritmo de una manera visual.
+
+* Los rectangulos punteadas de verde representan  las instrucciones.
+
+* La figura del rectángulo rojo representa la función "leer".
+
+* Las figura del rectangulo amarillo representa la operacion.
+
+* Las flechas demuestran el flujo de la secuencia que sigue el algoritmo.
 
  ---
  
@@ -74,7 +90,21 @@ FinAlgoritmo
 
 La Programación por Bloques es un método de programación visual que permite a los usuarios crear programas al arrastrar, soltar y encajar bloques gráficos que representan comandos o estructuras de programación.Está diseñado para ser intuitivo y accesible, especialmente para principiantes y niños, ya que elimina la necesidad de escribir código textual y evita los errores de sintaxis que son comunes en la programación tradicional. [4]
 
-[Programacion por bloques](https://drive.google.com/drive/folders/1rcLTr_U5APGuKYuTVHhS80ebZMnoqp1s?usp=sharing)
+  * 📁Ejemplos:
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVZclfKlb_xw_DIDytYFOiNDR6jJvCHmf3k3fWCerWWGfdTvXZchwhXhtsHbyXH8oKLuyVEdJIc9dByY7vpXCtVhu0XDlorTboz1vuRbGsvJvh90EDluJilGIxKo7FbXd0opTnbkuwFKfirTnYzjAqGFfbih9goqtwhuC2aJ8Rf3cyWOE8RCCXT3u0Zy5t/s1080/Captura%20de%20pantalla%202025-10-25%20134314.png" alt="Descripción" width="75%">
+</p>
+
+---
+
+###  *Explicación práctica de la programación por bloques*
+En esta imagen se muestra una estructura simple de un algoritmo construido por bloques y se muestran dos bloques:
+
+* El primer bloque da una orden en bucle que se repite hasta llegar a un cierto punto.
+* El segundo bloque da la orden de avanzar hacia adelante una sola vez.
+
+La forma en que estan apilados los bloques dice el orden en el que se ejecutara la accion hasta llegar a su punto indicado.
 
 ---
 
@@ -83,13 +113,87 @@ La Programación por Bloques es un método de programación visual que permite a
 Para esta parte elegi un algoritmo que me permita Calcular cuanto sera el precio final de un producto con descuento, y otro codigo que me permita ver el promedio de nota para el colegio en Pseint y luego lo realizare en lenguaje de programacion C.
 
 * 🔍 Actividad en Pseudocodigo
+```
+Algoritmo CalcularPrecioConDescuento
 
-  [Actividad en Pseint](https://drive.google.com/drive/folders/1DXtwTWvP1VkwAvvO5pHSFQbg4BkoncNE?usp=sharing)
+	Definir precio_original, porcentaje_descuento, precio_final Como Real;
+	Definir descuento Como Real;
+	//Datos de entrada//
+	Escribir "Ingresa precio original del producto:"
+	Leer precio_original;
+	Escribir "Ingresa el porcetaje de descuento:"
+	Leer porcentaje_descuento;
+	//Proceso//
+	descuento =  precio_original * porcentaje_descuento/100;
+	precio_final = precio_original - descuento;
+	//Datos de salida//
+	Escribir "El descuento aplicado es de: $", descuento;
+	Escribir "El precio final con el descuento es de: $", precio_final;
+FinAlgoritmo
+```
+
+---
+
+En este algoritmo se le muestra al usuario que ingrese el valor del precio original, y el porcentaje del descuento, despues escribimos la fórmula para sacar el descuento y el precio final, a continuacion despues de escribir la  fórmula procedemos a escribir el mensaje final donde se mostrará el resultado de la aplicacion del descuento y su precio final con el descuento aplicado.
+
+---
 
 * 💽 Actividad en C
+```
+#include <stdio.h>
+#include <math.h>
 
-  [Actividad en C](https://drive.google.com/drive/folders/1DXtwTWvP1VkwAvvO5pHSFQbg4BkoncNE?usp=sharing)
+int main () {;
+
+float precio_original;
+float porcentaje_Descuento;
+float precio_Final;
+float descuento;
+
+/*Datos de entrada*/
+
+printf("Ingrese precio:\n");
+scanf("%f", &precio_original);
+
+printf("Ingresa el porcentaje de descuento:\n");
+scanf("%f", &porcentaje_Descuento);
+
+/*Proceso*/
+
+descuento = precio_original * porcentaje_Descuento/100;
+precio_Final = precio_original-descuento;
+
+/*Datos de Salida*/
+
+printf("El descuento aplicado es de: %f\n",descuento);
+printf("El precio final con el descuento es de: %f\n", precio_Final);
+
+}
+
+```
+
 ---
+
+### *Explicacion del algoritmo en C*
+* Primero debemos incluir la biblioteca "<stdio.h>" por que esta permite incluir las funciones "printf" y "scanf" que son necesarias para escribir los datos de entrada y salida, tambien incluimos la biblioteca <math.h> ya que esta nos permite resolver formulas matematicas.
+* A continuacion escribimos "int main() {" que es el iniciador del programa, ya que "main" es el nombre de la función de C que nos permite dar el inicio y ejecución de todo lo que escribimos dentro de las llaves, simpre al ultimo de cada linea pondremos ";" esto quiere decir que hasta ahi es la intruccion.
+* En C hay un ligero cambio del pseudocodigo, ya que aqui primero pondremos que tipo de variable será y luego el nombre de la variable, en este caso se utilizara la variable "float" ya que nos permite leer decimales pero en pequeñas cantidades.
+* Ahora escribiremos los datos de entrada, en donde se usaremos "printf()" que es lo mismo que "Escribir" y "scanf()" que es " Leer". En el printf se usamos "\n" para que la función scanf se muestre debajo del texto, en esta función se usamos la máscara "%f" para decir que el programa espera un valor de tipo "float", depues de esto se pone una coma e ira el simbolo "&" que le dice al programa que guarde el valor ingresado por el usuario dentro de la varibale definida.
+* Despues escribiremos la formula para resolver el ejercicio que no cambia en nada en cuanto lo que hacemos en pseudocodigo.
+* Escribimos los datos de salida, usando printf, luego de escribir el mensaje final se pone la máscara "%f" que es como si diera un espacio exclusivo para el resultado, despues ponemos una coma y la variable.
+* Al ultimo ponemos "return 0;", que le dice el programa que el main termino, y cerramos en condigo con "}".
+
+---
+
+### Pruebas de escritorio.
+<p style="text-align:center; font-size:12px;">Tabla II. Prueba de escritorio
+
+| N°1 |precio original |porcentaje del descuento | Proceso | Resultado |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | $120 | 35% |descuento =  120 * 35/100 | $42 |
+| 2 | $1250 | 75% |descuento =  1250 * 75/100 | $937.5 |
+| 3 | $500 | 67% |descuento =  500 * 67/100 | $335 |
+
 ### ❓🤷‍♂️ Principales dificultades en la aplicación de los contenidos
 
 * Los Princiaples problemas que tuve al realizar codigos en lenguaje de programacion esque muchas veces no copilaba en codigo por algun error en la escritura del codigo.
