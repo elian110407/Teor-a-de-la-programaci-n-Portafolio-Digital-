@@ -24,7 +24,9 @@
 ---
 
 ### 🧭 Unidad 2
-> 
+>
+[Ir a Unidad 2](Unidad2.md)
+
 ---
 
 ### 🛠️ Unidad 3
