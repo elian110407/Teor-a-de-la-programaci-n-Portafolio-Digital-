@@ -12,3 +12,8 @@ La estructura condicional simple (IF) es una herramienta de programación que pe
 
 * Si la condición no se cumple (es falsa), el bloque de código se omite y el programa continúa con la siguiente instrucción.
 
+#### - Ejemplo Práctico:
+
+#### Diagrama de Flujo:
+
+
