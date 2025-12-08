@@ -52,6 +52,18 @@
 
 [4]Junta de Castilla y León, "5. Programación por bloques y pensamiento computacional," Educacyl, [En línea]. Disponible: https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html. [Accedido: 28 Oct. 2025]
 
+[6] J. R. Hanly and E. B. Koffman, Problem Solving and Program Design in C (8th ed.). Boston, MA: Pearson Education, 2016, pp. 120–125.
+
+[7] P. Deitel y H. Deitel, "Instrucción de selección doble if...else," en C++ Cómo programar, 6ta ed. Ciudad de México, México: Pearson Educación, 2009, sec. 4.5, pp. 115-117.
+
+[8] L. Joyanes Aguilar, Fundamentos de programación: algoritmos, estructuras de datos y objetos, 4ta ed. Madrid, España: McGraw-Hill Interamericana, 2008, pp. 145-148.
+
+[9] L. Joyanes Aguilar, Fundamentos de Programación: Algoritmos, estructura de datos y objetos, 4ta ed. Madrid, España: McGraw-Hill, 2008, pp. 165-168.
+
+[10] L. Joyanes Aguilar, Fundamentos de programación: Algoritmos, estructura de datos y objetos, 4ta ed. Madrid, España: McGraw-Hill, 2008.
+
+[11] H. M. Deitel y P. J. Deitel, C++ How to Program, 10a ed. Boston, MA: Pearson Education, 2017, pp. 150-155.
+
 ---
 
 ### 🧠 Uso de la IA Generativa
