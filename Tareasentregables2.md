@@ -17,6 +17,7 @@ Esta tarea hacimos una infografía en la cual contiene la diferencias entre los 
 #### 📎Cuadro comparativo de las estructuras repetitivas
 
 Esta tarea consistia en realizar un informe que contenga una tabla comparativa de las estructuras repetitivas.
+
 [Diferencias Estrucutras Repetitivas](https://drive.google.com/file/d/12eOGcpAUm5nIMWRBRzqFuIDypwqo2755/view?usp=sharing)
 
 ---
