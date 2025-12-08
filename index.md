@@ -26,7 +26,9 @@
 ### 🧭 Unidad 2
 >
 [Ir a Unidad 2](Unidad2.md)
+
 [Tareas entregadas en la Unidad 2](Tareasentregables2.md)
+
 ---
 
 ### 🛠️ Unidad 3
