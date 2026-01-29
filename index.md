@@ -40,7 +40,10 @@
 ---
 
 ### 💡 Conclusiones
-> *El momento 'Aha!': Reflexiones y luz sobre el aprendizaje clave.*
+> * En Teoría de la Programación aprendí a estructurar soluciones lógicas usando pseudocódigo, diagramas de flujo y algoritmos. Dominé las estructuras condicionales y repetitivas, arreglos, modularidad y punteros en lenguaje C.
+Más allá de las herramientas técnicas, ahora razono mejor los problemas computacionales, los divido en partes más pequeñas y entiendo la importancia de planificar con disciplina y buenas prácticas. Todo esto fortalece mi formación profesional y me prepara para la carrera y el mundo laboral.*
+
+> * Esta materia no solo me dio herramientas de programación, sino que transformó mi manera de razonar: aprendí a buscar soluciones claras, eficientes y ordenadas. Entendí que la disciplina y la paciencia al planificar son tan importantes como escribir código. Todo esto me prepara mejor para los estudios futuros y para desenvolverme con éxito en el ámbito laboral.*
 
 ---
 
@@ -66,6 +69,14 @@
 [10] L. Joyanes Aguilar, Fundamentos de programación: Algoritmos, estructura de datos y objetos, 4ta ed. Madrid, España: McGraw-Hill, 2008.
 
 [11] H. M. Deitel y P. J. Deitel, C++ How to Program, 10a ed. Boston, MA: Pearson Education, 2017, pp. 150-155.
+
+[12] J. P. Mueller y B. Sponaugle, C++ All-in-One For Dummies, 4a ed. Hoboken, NJ, EE. UU.: John Wiley & Sons, 2021.
+
+[13] R. L. Halterman, Fundamentals of C++ Programming. Athens, GA, EE. UU.: Southern Adventist University, 2020.
+
+[14] P. Deitel y H. Deitel, C++ How to Program, 10a ed. Upper Saddle River, NJ, EE. UU.: Pearson, 2017.
+
+[15] M. Sprankle y J. Hubbard, Problem Solving and Programming Concepts, 9a ed. Boston, MA, EE. UU.: Pearson, 2012.
 
 ---
 
